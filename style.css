@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+
+video, canvas, img {
+    border: 2px solid #ddd;
+    margin: 20px 0;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px;
+}
+
+select {
+    padding: 5px;
+    font-size: 16px;
+}
+
+img#photo {
+    display: none;
+    margin-top: 20px;
+    width: 640px;
+    height: 480px;
+}
